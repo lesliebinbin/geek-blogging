@@ -8,7 +8,6 @@
 #+LANGUAGE:    en
 #+OPTIONS:     H:3 num:nil toc:nil \n:nil ::t |:t ^:nil -:nil f:t *:t <:t
 #+DESCRIPTION: This is my personal cv
-#+OPTIONS: toc:nil H:10 ':t
 #+LaTeX_HEADER: \usepackage{leslie_cv}
 
 * Contact Info
